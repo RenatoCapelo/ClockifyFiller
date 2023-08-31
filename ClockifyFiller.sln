@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockifyFiller", "ClockifyFiller\ClockifyFiller.csproj", "{BB4FADD9-CA48-4967-8F2E-3FE426FA72DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4FADD9-CA48-4967-8F2E-3FE426FA72DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4FADD9-CA48-4967-8F2E-3FE426FA72DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4FADD9-CA48-4967-8F2E-3FE426FA72DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4FADD9-CA48-4967-8F2E-3FE426FA72DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA144C09-315F-4309-B4AE-BC947FB9A310}
+	EndGlobalSection
+EndGlobal
